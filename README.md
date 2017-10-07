@@ -1,7 +1,8 @@
 # first_webpack_project
 
-
 This simple project explain how to add webpack.
+
+Run in file protocol-not used webpack-dev-server.
 
 Do the following steps:
 
